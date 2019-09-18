@@ -6,4 +6,4 @@ Use the [Android Studio](https://developer.android.com/studio/install) to instal
 Install USB Notificaton through Android Studio
 ```
 ## Usage
-Shows Toast Notification Whenever USB get connected or disconnected
+Shows Toast Notification Whenever USB get connected or disconnected.
